@@ -1,0 +1,13 @@
+<item>il y a quoi à la télé ce soir<tag> data.period="soiree"</tag></item>
+<item>il y a quoi à la télé en ce moment<tag> data.period="actuellement"</tag></item>
+
+
+  
+      
+        <item>il y a quoi à la télé lundi<tag>data.period="lundi"</tag></item>
+        <item>il y a quoi à la télé mardi<tag>data.period="mardi"</tag></item>
+        <item>il y a quoi à la télé mercredi<tag>data.period="mercredi"</tag></item>
+        <item>il y a quoi à la télé jeudi<tag>data.period="jeudi"</tag></item>
+        <item>il y a quoi à la télé vendredi<tag>data.period="vendredi"</tag></item>
+        <item>il y a quoi à la télé samedi<tag>data.period="samedi"</tag></item>
+        <item>il y a quoi à la télé dimanche<tag>data.period="dimanche"</tag></item>
